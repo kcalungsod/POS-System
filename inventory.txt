@@ -1,0 +1,26 @@
+Mon Mar 14 15:59:43 2022
+
+Cashier:
+			 List of Supplies
+Items 					      Price      Supply
+
+Absolute Distilled Water 6.0L                P 85.00 	  100
+Acetone 60 ML                                P 15.00 	  100
+Advil 200MG CAP (IBUPROFEN)                  P 11.00 	  100
+Aerius 5MG TAB (DESLORATADINE)               P 63.00 	  100
+Aerovent NEB 2.5MG/2.5ML (SALBUTAMOL - GEN)  P 23.00 	  100
+Alaska Powdered Milk 150G                    P 48.00 	  100
+Alaxan FR CAP (IBUPROFEN+PARACETAMOL)        P 11.00 	  100
+Aldactone 25MG TAB (SPIRONOLACTONE)          P 20.00 	  1001
+Aleva 10MG TAB (EBASTINE)                    P 25.00 	  111
+Allerkid 30ML (CETIRIZINE)                   P 152.00 	  1
+Baby Flo Silicone Nipple Wide Neck (LARG)    P 40.00 	  111
+Baby Flo Silicone Nipple X-Cut 35            P 66.00 	  1
+Bactidol Solution Oral 120ML (HEXITIDINE)    P 157.00 	  1
+Bactifree 20MG 10G Ointment (MUPIROCIN)      P 423.00 	  1
+Bactiv 1G (CO-AMOXICLAV)                     P 62.00 	  1
+Bactoclav 625MG TAB (CO-AMOXICLAV)           P 40.00 	  1
+Bactroban 2% Ointment 15G (MUPIROCIN)        P 659.00 	  1
+Band-aid 75% Alcohol 150ML                   P 37.00 	  10
+Band-aid strips                              P 2.00 	  1
+Bear Brand 150G                              P 56.00 	  1
